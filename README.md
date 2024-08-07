@@ -1,2 +1,3 @@
-# CS151-and-152
-Introduction to Computer Science
+Provided a comprehensive introduction to programming using Java, covering fundamentals such as object use and design, conditional and iterative statements, array programming, and object-oriented principles including inheritance and polymorphism. 
+Aims to complete basic Java programming education and advance to topics such as recursion, standard data structures, and mobile app development. 
+Proficient in solving programming problems with advanced Java concepts, creating recursive solutions, utilizing the Java Swing library for graphics, implementing linked lists, and developing simple Android mobile apps.
